@@ -52,7 +52,7 @@
 <br/>  
 <table align="center" style:"border: 0px "><tr><td valign="top" width="50%">
 <a href="https://linkedin.com/in/khizr-ali" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin height=30 />
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin align="center" height=30 />
 </a></td>
 <td valign="top" width="50%">
 <img style="padding-bottom: 50 px" src="https://komarev.com/ghpvc/?username=khizr3&&style=flat-square" align="center" height=30 />
